@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Employees.cs](./CS/ListBoxFilteringUsingSearchPanel/Employees.cs) (VB: [Employees.vb](./VB/ListBoxFilteringUsingSearchPanel/Employees.vb))
+* [MainPage.xaml](./CS/ListBoxFilteringUsingSearchPanel/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/ListBoxFilteringUsingSearchPanel/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/ListBoxFilteringUsingSearchPanel/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ListBoxFilteringUsingSearchPanel/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to: Locate Information within ListBoxEdit using the Search Control
 
 
